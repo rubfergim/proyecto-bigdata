@@ -5,3 +5,4 @@ Aquí registraré y publicaré cambios de un proyecto.
 - Git: control de versiones.
 - Docker: ejecución de aplicaciones en contenedores.
 - PostgreSQL: gestión de bases de datos relacionales.
+Mi objetivo en este módulo es aprender a trabajar con datos.
